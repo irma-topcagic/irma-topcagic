@@ -1,48 +1,32 @@
-# 👋 Hi, I'm Irma Topčagić
+# 👋 Hi, I'm Irma!
 
-🎓 Electrical Engineering student at the University of Sarajevo  
-💻 Software Development | Web & Mobile Applications  
-🧪 Software Testing | Embedded Systems  
-
----
-
-## 🔧 Technologies & Tools
-- JavaScript (Node.js, Express)
-- .NET / C#
-- MySQL, Sequelize
-- HTML, CSS
-- Python
-- Git & GitHub
-- MQTT
+## 🎓 About Me
+I am a software engineering student focused on building functional and well-documented web applications. I enjoy working with both frontend and backend technologies, with a strong interest in software architecture and design patterns.
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-### 🚗 YourRide (.NET Application)
-A .NET-based application focused on structured backend logic and object-oriented design.
+### 🎬 [Scenarij](https://github.com/irma-topcagic/Scenarij)
+* **Description:** A collaborative web application for scriptwriting.
+* **Tech Stack:** Node.js, JavaScript, MySQL, Sequelize.
+* **Highlights:** Real-time line locking and version control.
 
----
-
-### 🎬 Scenarij (Web Application)
-A collaborative web application for scenario/script writing with versioning, checkpoints, and line locking.
-
----
-
-### 📰 NewsFeedApp (Mobile Application – RMA)
-A mobile application featuring a news feed interface and API-based data handling.
+### 🚗 [YourRide](https://github.com/irma-topcagic/YourRide)
+* **Description:** An ASP.NET Core web application focused on clean architecture.
+* **Tech Stack:** C#, .NET Core, Entity Framework, MVC.
+* **Highlights:** Extensive UML documentation (Class, Sequence, ERD diagrams) and design patterns implementation.
 
 ---
 
-## 🔍 Software Testing & Quality Assurance
-- Unit testing
-- Black-box testing
-- Software Verification & Validation
-- Test case design and execution
+## 🛠 Skills
+* **Languages:** C#, JavaScript, HTML, CSS
+* **Frameworks:** ASP.NET Core, Express.js
+* **Database:** MySQL, SQL Server
+* **Tools:** Git, Visual Studio, VS Code
 
 ---
 
-## 🔌 Embedded Systems & IoT
-- Embedded systems fundamentals
-- MQTT-based communication
-- Message broker architecture
+## 📫 Connect with me
+* [GitHub](https://github.com/irma-topcagic)
+* [LinkedIn](https://www.linkedin.com/in/irma-topcagic-079583377/)
