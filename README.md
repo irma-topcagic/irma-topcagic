@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Irma</h1>
+# Hi there, I'm Irma
 
-<h3 align="center">Computer Science & Informatics Graduate | Software Development Enthusiast</h3>
+**Computer Science & Informatics Graduate | Software Development Enthusiast**
 
 ---
 
@@ -23,7 +23,7 @@ I am a Computer Science & Informatics graduate from the **Faculty of Electrical 
 
 ---
 
-<h3 align="center">Contact Me</h3>
+<h3>Contact Me</h3>
 
 <p align="center">
 <a href="mailto:topcagicirma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
