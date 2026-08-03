@@ -6,7 +6,7 @@
 
 ### About Me
 
-I am a Computer Science & Informatics graduate from the **Faculty of Electrical Engineering, University of Sarajevo**. I enjoy building software solutions across different areas, including backend development, web applications, databases, and embedded systems.
+I am a Computer Science & Informatics graduate from the Faculty of Electrical Engineering, University of Sarajevo. I enjoy working on software projects, learning new technologies, and exploring different areas such as web development, backend systems, and software quality.
 
 - **Degree:** BSc in Electrical Engineering — Computer Science & Informatics, University of Sarajevo
 - **Interests:** Software engineering, backend development, system design, software quality
